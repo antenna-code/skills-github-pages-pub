@@ -1,7 +1,6 @@
 ---
 title: Welcome to my blog
+layout: home
 ---
 
-* bullet 1
-* bullet 2
-* bullet 3
+Welcome to my blog
