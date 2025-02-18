@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "New-Blog-Post-2"
-permalink: /New-Blog-Post-2/
+layout: post
+title: "New Blog Post 2"
 date: 2025-02-25
 ---
 
