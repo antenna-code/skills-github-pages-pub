@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New-Blog-Post-1"
+title: "New Blog Post 1"
 date: 2025-02-25
 ---
 
