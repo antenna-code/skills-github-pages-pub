@@ -1,8 +1,4 @@
 theme: minima
 title: github page!
 description: github pages test
-nav:
-  - title: "Home"
-    url: /
-  - title: "2025-02-25-New-Blog-Post-2"
-    url: /2025-02-25-New-Blog-Post-2/
+future: true
