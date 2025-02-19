@@ -1,7 +1,7 @@
 theme: minima
 title: "github page!"
 baseurl: /skills-github-pages-pub
-description: "github pages test bbb"
+description: "github pages test ccc"
 future: true
 nav:
   - title: "Blog"
