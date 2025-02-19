@@ -1,7 +1,7 @@
 theme: minima
 title: "github page!"
 baseurl: /skills-github-pages-pub
-description: "github pages test iii"
+description: "github pages test lll"
 future: true
 nav:
   - title: "Blog"
@@ -10,3 +10,5 @@ nav:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Team"
+    url: /team/
