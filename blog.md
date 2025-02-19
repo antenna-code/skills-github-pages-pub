@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 # Blog
 
-Welcome to my blog. Here are my latest posts:
+Welcome to my blog. Here are my latest posts!:
 
 {% for post in site.posts %}
 <article>
