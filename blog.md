@@ -14,3 +14,6 @@ Welcome to my blog. Here are my latest posts:
   <p>{{ post.excerpt }}</p>
 </article>
 {% endfor %}
+
+Number of posts!:
+<p>Number of posts: {{ site.posts | size }}</p>

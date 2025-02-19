@@ -13,3 +13,7 @@ This is the landing page of my site.
     <p>{{ post.excerpt }}</p>
   </article>
 {% endfor %}
+
+
+Number of posts:
+<p>Number of posts: {{ site.posts | size }}</p>
