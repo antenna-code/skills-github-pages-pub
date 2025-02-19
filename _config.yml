@@ -11,3 +11,6 @@ nav:
     url: /about/
   - title: "Portfolio"
     url: /portfolio/
+
+# Set a custom permalink structure for posts:
+permalink: /blog/:title/
