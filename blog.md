@@ -1,11 +1,13 @@
 ---
-layout: default
+layout: page
 title: "Blog"
 permalink: /blog/
 ---
 # Blog
 
 Welcome to my blog. Here are my latest posts:
+
+<p>Number of posts: {{ site.posts | size }}</p>
 
 {% for post in site.posts %}
 <article>
