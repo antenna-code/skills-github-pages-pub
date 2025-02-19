@@ -1,6 +1,7 @@
 theme: minima
 title: "github page!"
-description: "github pages test aaa"
+description: "github pages test bbb"
+future: true
 nav:
   - title: "Blog"
     url: /blog/
