@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Blog"
 permalink: /blog/
 ---
@@ -9,7 +9,7 @@ Welcome to my blog. Here are my latest posts:
 
 {% for post in site.posts %}
 <article>
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h2><a href="{{ post.url }}"></a></h2>
   <small>Posted on {{ post.date | date: "%B %-d, %Y" }}</small>
 </article>
 {% endfor %}
