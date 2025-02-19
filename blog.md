@@ -6,7 +6,6 @@ permalink: /blog/
 # Blog
 Welcome to my blog
 
-Number of posts:
 <p>Number of posts: {{ site.posts | size }}</p>
 
 {% for post in site.posts %}
