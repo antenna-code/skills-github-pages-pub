@@ -4,6 +4,8 @@ title: "Blog"
 permalink: /blog/
 ---
 # Blog
+Number of posts!:
+<p>Number of posts: {{ site.posts | size }}</p>
 
 Welcome to my blog. Here are my latest posts:
 
@@ -15,5 +17,3 @@ Welcome to my blog. Here are my latest posts:
 </article>
 {% endfor %}
 
-Number of posts!:
-<p>Number of posts: {{ site.posts | size }}</p>
