@@ -3,6 +3,8 @@ title: "github page!"
 description: "github pages test"
 future: true
 nav:
+  - title: "Homr"
+    url: /
   - title: "Blog"
     url: /blog/
   - title: "About"
