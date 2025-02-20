@@ -1,7 +1,7 @@
 ---
-title: Welcome to my blog
+layout: home
+title: "Welcome"
+nav_exclude: true
 ---
-
-* bullet 1
-* bullet 2
-* bullet 3
+# Welcome to My Website
+This is the landing page of my site.

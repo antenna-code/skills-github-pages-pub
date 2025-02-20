@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Project Alpha",
+    "description": "An innovative project on embedded systems.",
+    "url": "https://example.com/alpha"
+  },
+  {
+    "name": "Project Beta",
+    "description": "A deep dive into sensor data processing.",
+    "url": "https://example.com/beta"
+  }
+]
